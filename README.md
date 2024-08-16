@@ -53,16 +53,19 @@ To answer these questions, the dataset simulates an A/B test where the experimen
     - **Test Group vs. Conversion**:
         - Created a crosstab to analyze conversion rates within the `ad` and `psa` groups.
         - Employed styling to highlight significant differences.
+          
           ![crosstab_for_ad_psa](https://github.com/user-attachments/assets/3760386a-b27f-479b-8164-94ffa7bce59a)
 
     - **Conversion Rates by Day of the Week**:
         - Created and styled crosstabs to compare conversion rates across different days of the week for the `ad` group.
         - Applied the Chi-Square test to assess the independence of conversion rates and specific days.
+          
           ![Снимок экрана 2024-08-17 013217](https://github.com/user-attachments/assets/9827d32e-a18c-43e8-87c7-a0a0f206154f)
 
     - **Conversion Rates by Hour of the Day**:
         - Analyzed conversion rates across different hours of the day using crosstabulations.
         - Sorted and styled the results to identify peak hours for ad effectiveness.
+          
           ![Снимок экрана 2024-08-17 013237](https://github.com/user-attachments/assets/93adb195-4230-4107-8619-e70d09be3faf)
 
 
